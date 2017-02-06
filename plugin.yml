@@ -1,0 +1,10 @@
+name: 'AdrundaalSkeletonHorses'
+version: '0.1'
+main: 'pandemist.adrundaal.skeletonHorses.AdrundaalSkeletonHorses'
+desc: 'Skeleton Horse spawning control plugin'
+authors: ['Pandemist']
+depend: ['WorldGuard','WorldEdit']
+
+commands:
+  regionelytra:
+    permissions: 'pandemist.adrundaal.skeletonHorsesControl'

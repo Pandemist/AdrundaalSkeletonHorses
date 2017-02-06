@@ -1,0 +1,5 @@
+config:
+lang:
+  set-skeletonHorse-allow: '&cSkeleton Horse spawning is now enabled in %REGION%.'
+  set-skeletonHorse-deny: '&cSkeleton Horse spawning is now disabled in %REGION%.'
+  value-not-allowed: '&cThis value is not allowed in this Context. (enable/disables)'
